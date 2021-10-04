@@ -63,7 +63,7 @@ var searchData=
   ['wildcard_5fmatching_60',['wildcard_matching',['../db/d03/namespacewildcard__matching.html',1,'']]],
   ['wildcard_5fmatching_2ecpp_61',['wildcard_matching.cpp',['../dc/d14/wildcard__matching_8cpp.html',1,'']]],
   ['windowed_5fmedian_2ecpp_62',['windowed_median.cpp',['../d1/ded/windowed__median_8cpp.html',1,'']]],
-  ['windowedmedian_63',['WindowedMedian',['../d6/dda/classprobability_1_1_windowed_median.html',1,'probability::WindowedMedian'],['../d6/dda/classprobability_1_1_windowed_median.html#acb2b4d66117d266d7dc0d88932e2e3f1',1,'probability::WindowedMedian::WindowedMedian()']]],
+  ['windowedmedian_63',['WindowedMedian',['../d6/dda/classprobability_1_1_windowed_median.html',1,'probability::WindowedMedian'],['../d6/dda/classprobability_1_1_windowed_median.html#a9201419eaa5e64a9dfa9af47e99f3773',1,'probability::WindowedMedian::WindowedMedian()']]],
   ['wiostream_64',['wiostream',['http://en.cppreference.com/w/cpp/io/basic_iostream.html',0,'std::wiostream'],['http://en.cppreference.com/w/cpp/io/basic_iostream/basic_iostream.html',0,'std::wiostream::wiostream()']]],
   ['wistream_65',['wistream',['http://en.cppreference.com/w/cpp/io/basic_istream.html',0,'std::wistream'],['http://en.cppreference.com/w/cpp/io/basic_istream/basic_istream.html',0,'std::wistream::wistream()']]],
   ['wistringstream_66',['wistringstream',['http://en.cppreference.com/w/cpp/io/basic_istringstream.html',0,'std::wistringstream'],['http://en.cppreference.com/w/cpp/io/basic_istringstream/basic_istringstream.html',0,'std::wistringstream::wistringstream()']]],
