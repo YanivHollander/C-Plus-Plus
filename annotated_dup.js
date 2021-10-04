@@ -91,6 +91,9 @@ var annotated_dup =
         [ "Stack", "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html", "d5/d8a/classothers_1_1postfix__expression_1_1_stack" ]
       ] ]
     ] ],
+    [ "probability", "d4/ded/namespaceprobability.html", [
+      [ "WindowedMedian", "d6/dda/classprobability_1_1_windowed_median.html", "d6/dda/classprobability_1_1_windowed_median" ]
+    ] ],
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", [
       [ "Entry", "da/dd1/structquadratic__probing_1_1_entry.html", "da/dd1/structquadratic__probing_1_1_entry" ]
     ] ],
@@ -141,8 +144,8 @@ var annotated_dup =
     [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
+    [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", "d4/db4/struct_segment_intersection" ],
     [ "Solution", "dd/d4f/class_solution.html", null ],

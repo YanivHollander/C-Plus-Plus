@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md90", null ],
-      [ "Features", "index.html#autotoc_md91", null ],
-      [ "Documentation", "index.html#autotoc_md92", null ],
-      [ "Contributions", "index.html#autotoc_md93", null ]
+      [ "Overview", "index.html#autotoc_md91", null ],
+      [ "Features", "index.html#autotoc_md92", null ],
+      [ "Documentation", "index.html#autotoc_md93", null ],
+      [ "Contributions", "index.html#autotoc_md94", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -133,16 +133,16 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#aa28ae272e9176557133a10dffa3b94dc",
-"d2/de7/namespacerunge__kutta.html",
-"d4/d68/qr__decompose_8h.html#adfbdf47277c8cfee229b05b72f1f7834",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56",
-"d6/d9d/large__factorial_8cpp.html#a3f93b60e229b6683e24c4754a7106ee8",
-"d8/d69/classgraph_1_1_h_k_graph.html#a3d9101e3b4598159005fd028b9b0ff74",
-"d9/d49/kohonen__som__trace_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0",
-"da/de7/decimal__to__hexadecimal_8cpp.html",
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3",
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9b0c6400693a5cfff971f768dd5ca5ca",
-"functions_func_e.html"
+"d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html",
+"d4/d68/qr__decompose_8h.html#a73ce637634fc49e1d10d190eb388ebf1",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52",
+"d6/d80/double__hash__hash__table_8cpp.html#af4981819aae8bc7e7beeaef02615e30d",
+"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a4c6eefd1254eab3e8d34bf02c205e0f4",
+"d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a41c733f5f5e262b308f7cb95c88c1e74",
+"da/dc9/fibonacci__matrix__exponentiation_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a207b3a99fd5974d3117e0b0ac0aad234",
+"dd/da8/pigeonhole__sort_8cpp.html#a0e9e1b21a1684585e9e50f9afe4d53a3",
+"dir_f1797d0c2a0a12033e7d74efffeb14e1.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -150,6 +150,7 @@ var namespaces_dup =
     [ "palindrome_partitioning", "d5/d89/namespacepalindrome__partitioning.html", null ],
     [ "pancake_sort", "df/d10/namespacepancake__sort.html", null ],
     [ "postfix_expression", "d4/de6/namespacepostfix__expression.html", null ],
+    [ "probability", "d4/ded/namespaceprobability.html", "d4/ded/namespaceprobability" ],
     [ "qr_algorithm", "d2/d3b/namespaceqr__algorithm.html", [
       [ "eigen_values", "d2/d3b/namespaceqr__algorithm.html#a28e2fa3e803abaea6c568dc45d69d8cc", null ],
       [ "operator<<", "d2/d3b/namespaceqr__algorithm.html#adfbdf47277c8cfee229b05b72f1f7834", null ],

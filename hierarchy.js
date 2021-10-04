@@ -58,8 +58,8 @@ var hierarchy =
     [ "geometry::jarvis::Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "queue< Kind >", "db/da9/classqueue.html", null ],
+    [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "data_structures::queue_using_array::Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", null ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
@@ -94,5 +94,6 @@ var hierarchy =
       [ "std::is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
     ] ],
     [ "uint128_t", "db/d9a/classuint128__t.html", null ],
-    [ "uint256_t", "d1/d83/classuint256__t.html", null ]
+    [ "uint256_t", "d1/d83/classuint256__t.html", null ],
+    [ "probability::WindowedMedian", "d6/dda/classprobability_1_1_windowed_median.html", null ]
 ];
