@@ -1,6 +1,6 @@
 var classprobability_1_1_windowed_median =
 [
-    [ "WindowedMedian", "d6/dda/classprobability_1_1_windowed_median.html#a9201419eaa5e64a9dfa9af47e99f3773", null ],
+    [ "WindowedMedian", "d6/dda/classprobability_1_1_windowed_median.html#ae9851ed14527e809e74d29c715f1e6b9", null ],
     [ "eraseFromSorted", "d6/dda/classprobability_1_1_windowed_median.html#ac1fa194c35fe54e7913185b8df5de097", null ],
     [ "getMedian", "d6/dda/classprobability_1_1_windowed_median.html#af844e90e60c73379faa40cdfecf911be", null ],
     [ "getMedianNaive", "d6/dda/classprobability_1_1_windowed_median.html#a572eec9183bdbe921ccfbeb14fd0c088", null ],

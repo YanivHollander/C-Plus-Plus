@@ -21,9 +21,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/types/integer.html" xlink:title=" ">
-<polygon fill="white" stroke="black" points="38,-67.5 38,-86.5 109,-86.5 109,-67.5 38,-67.5"/>
-<text text-anchor="middle" x="73.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::uint64_t</text>
+<g id="a_node2"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/container/list.html" xlink:title=" ">
+<polygon fill="white" stroke="black" points="36,-67.5 36,-86.5 111,-86.5 111,-67.5 36,-67.5"/>
+<text text-anchor="middle" x="73.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::list&lt; int &gt;</text>
 </a>
 </g>
 </g>
@@ -32,7 +32,7 @@
 <title>Node2&#45;&gt;Node1</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M73.5,-57.04C73.5,-44.67 73.5,-29.12 73.5,-19.63"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="70,-57.23 73.5,-67.23 77,-57.23 70,-57.23"/>
-<text text-anchor="middle" x="104.5" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00"> _windowSize</text>
+<text text-anchor="middle" x="94.5" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00"> _window</text>
 </g>
 </g>
 </svg>

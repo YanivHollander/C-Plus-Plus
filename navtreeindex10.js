@@ -111,7 +111,7 @@ var NAVTREEINDEX10 =
 "db/d82/classlarge__number.html#ae35a55607cf52c0b0d485f2129bd39ac":[10,0,28,5],
 "db/d82/classlarge__number.html#af2b3ec9c35842d3a46ac7326f268af57":[10,0,28,19],
 "db/d82/classlarge__number.html#af4598f1f2794b5e17e10c25e0501e41a":[10,0,28,1],
-"db/d8b/struct_node.html":[10,0,34],
+"db/d8b/struct_node.html":[10,0,35],
 "db/d93/check__prime_8cpp.html":[11,0,13,5],
 "db/d93/check__prime_8cpp.html#aa18b3517017d99bb4024853bddba5532":[11,0,13,5,0],
 "db/d93/check__prime_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,13,5,1],
