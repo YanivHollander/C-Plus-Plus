@@ -1,9 +1,14 @@
 <map id="probability::WindowedMedian::insert" name="probability::WindowedMedian::insert">
-<area shape="rect" id="node1" title="Insert a new value to the stream." alt="" coords="5,152,201,193"/>
-<area shape="rect" id="node2" href="$d6/dda/classprobability_1_1_windowed_median.html#ac1fa194c35fe54e7913185b8df5de097" title="Erases a value from a sorted multi&#45;value BST." alt="" coords="249,5,445,47"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/front.html#" title=" " alt="" coords="299,71,396,98"/>
-<area shape="rect" id="node4" href="$d6/dda/classprobability_1_1_windowed_median.html#a1d04e16e1c74b1f5b56aaf31d8409c4d" title="Inserts a value to a sorted multi&#45;value BST." alt="" coords="249,123,445,164"/>
-<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/pop_front.html#" title=" " alt="" coords="284,189,411,215"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/push_back.html#" title=" " alt="" coords="279,239,415,266"/>
-<area shape="rect" id="node7" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/size.html#" title=" " alt="" coords="300,290,395,317"/>
+<area shape="rect" id="node1" title="Insert a new value to the stream." alt="" coords="5,193,201,234"/>
+<area shape="rect" id="node2" href="$d6/dda/classprobability_1_1_windowed_median.html#ac1fa194c35fe54e7913185b8df5de097" title="Erases a value from a sorted multi&#45;value BST." alt="" coords="249,46,445,87"/>
+<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/front.html#" title=" " alt="" coords="299,112,396,139"/>
+<area shape="rect" id="node7" href="$d6/dda/classprobability_1_1_windowed_median.html#a1d04e16e1c74b1f5b56aaf31d8409c4d" title="Inserts a value to a sorted multi&#45;value BST." alt="" coords="249,163,445,205"/>
+<area shape="rect" id="node10" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/pop_front.html#" title=" " alt="" coords="284,229,411,256"/>
+<area shape="rect" id="node11" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/push_back.html#" title=" " alt="" coords="279,280,415,307"/>
+<area shape="rect" id="node12" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/list/size.html#" title=" " alt="" coords="300,331,395,357"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/erase.html#" title=" " alt="" coords="493,5,627,32"/>
+<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/find.html#" title=" " alt="" coords="499,56,621,83"/>
+<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/size.html#" title=" " alt="" coords="498,111,622,137"/>
+<area shape="rect" id="node8" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/begin.html#" title=" " alt="" coords="493,169,627,196"/>
+<area shape="rect" id="node9" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/insert.html#" title=" " alt="" coords="493,220,627,247"/>
 </map>
