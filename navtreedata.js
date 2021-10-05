@@ -137,12 +137,12 @@ var NAVTREEINDEX =
 "d4/d68/qr__decompose_8h.html#a73ce637634fc49e1d10d190eb388ebf1",
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52",
 "d6/d80/double__hash__hash__table_8cpp.html#af4981819aae8bc7e7beeaef02615e30d",
-"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a4c6eefd1254eab3e8d34bf02c205e0f4",
-"d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a41c733f5f5e262b308f7cb95c88c1e74",
-"da/dc9/fibonacci__matrix__exponentiation_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#a207b3a99fd5974d3117e0b0ac0aad234",
-"dd/da8/pigeonhole__sort_8cpp.html#a0e9e1b21a1684585e9e50f9afe4d53a3",
-"dir_f1797d0c2a0a12033e7d74efffeb14e1.html"
+"d8/d28/classrange__queries_1_1per_seg_tree.html#ae8ae4b1835e5e8aec32f68c5059ed4d4",
+"d9/d31/coin__change__topdown_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"da/db8/count__of__set__bits_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"dc/d14/wildcard__matching_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#ae145ac4a0d2ec58945b58fad3c04f00f",
+"dir_93bc990c5cceb745f78af6949e9ef947.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

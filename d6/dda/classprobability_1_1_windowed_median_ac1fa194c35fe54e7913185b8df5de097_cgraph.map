@@ -1,6 +1,0 @@
-<map id="probability::WindowedMedian::eraseFromSorted" name="probability::WindowedMedian::eraseFromSorted">
-<area shape="rect" id="node1" title="Erases a value from a sorted multi&#45;value BST." alt="" coords="5,49,201,90"/>
-<area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/erase.html#" title=" " alt="" coords="249,5,383,32"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/find.html#" title=" " alt="" coords="255,56,377,83"/>
-<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/multiset/size.html#" title=" " alt="" coords="254,107,378,133"/>
-</map>
